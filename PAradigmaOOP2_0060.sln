@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solveMultiwaris_0060", "sol
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encapsulasi_0060", "Encapsulasi_0060\Encapsulasi_0060.vcxproj", "{426187D8-1531-483F-8691-3531595D83BA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi_0060", "abstraksi_0060\abstraksi_0060.vcxproj", "{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{426187D8-1531-483F-8691-3531595D83BA}.Release|x64.Build.0 = Release|x64
 		{426187D8-1531-483F-8691-3531595D83BA}.Release|x86.ActiveCfg = Release|Win32
 		{426187D8-1531-483F-8691-3531595D83BA}.Release|x86.Build.0 = Release|Win32
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Debug|x64.ActiveCfg = Debug|x64
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Debug|x64.Build.0 = Debug|x64
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Debug|x86.Build.0 = Debug|Win32
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Release|x64.ActiveCfg = Release|x64
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Release|x64.Build.0 = Release|x64
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Release|x86.ActiveCfg = Release|Win32
+		{BC05F8BA-B72B-4FAD-A63D-9D24F087D4A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
