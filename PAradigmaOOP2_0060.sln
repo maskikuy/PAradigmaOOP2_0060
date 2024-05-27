@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAradigmaOOP2_0060", "PArad
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding_0060", "noOverriding_0060\noOverriding_0060.vcxproj", "{92589797-683F-43DF-8804-D9DF19B1E3DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan_0060", "noPewarisan_0060\noPewarisan_0060.vcxproj", "{462738CE-2CC1-48BC-ABEB-600248C803B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{92589797-683F-43DF-8804-D9DF19B1E3DE}.Release|x64.Build.0 = Release|x64
 		{92589797-683F-43DF-8804-D9DF19B1E3DE}.Release|x86.ActiveCfg = Release|Win32
 		{92589797-683F-43DF-8804-D9DF19B1E3DE}.Release|x86.Build.0 = Release|Win32
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Debug|x64.ActiveCfg = Debug|x64
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Debug|x64.Build.0 = Debug|x64
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Debug|x86.Build.0 = Debug|Win32
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Release|x64.ActiveCfg = Release|x64
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Release|x64.Build.0 = Release|x64
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Release|x86.ActiveCfg = Release|Win32
+		{462738CE-2CC1-48BC-ABEB-600248C803B8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
